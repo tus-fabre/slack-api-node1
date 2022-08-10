@@ -1,0 +1,13 @@
+{
+  "name": "slack-api-node1",
+  "version": "1.0.0",
+  "description": "Slack API sample programming code in NodeJS",
+  "main": "hello_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TUS",
+  "license": "MIT License",
+  "dependencies": {
+  }
+}
