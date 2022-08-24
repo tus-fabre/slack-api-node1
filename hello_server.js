@@ -4,7 +4,7 @@
  * [FILE] hello_server.js
  *
  * [DESCRIPTION]
- *  Lesson 1a - 「こんにちは」を表示する簡単なWebサーバー
+ *  Lesson Node 1 - 「こんにちは」を表示する簡単なWebサーバー
  * 
  * [NOTE]
  */
